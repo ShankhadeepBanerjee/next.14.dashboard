@@ -1,14 +1,5 @@
-# Node.js template
+## Next.js App Router Course - Starter
 
-This is a Node.js project with an HTTP server.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
-
-## How does this work?
-
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
